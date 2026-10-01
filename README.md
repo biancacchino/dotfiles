@@ -1,4 +1,4 @@
-# Dotfiles
+# 🛠️ Bianca's Dotfiles
 
 ## What's Inside
 
